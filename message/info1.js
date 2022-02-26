@@ -21,25 +21,3 @@ return`
 *▸* Tgl sekarang : ${calender}
 *▸* Image : Girl Front Line G11
 *▸* Voice : Nina kawai
-
-*▸* SCRIPT BY
-   Decode Denpa
-   X-Dev Team
-   Yogi PW
-   Hexagon
-   Dttaz
-
-*▸* FEATURE  BY  
-   Decode Denpa
-   Fernazer
-   X-Dev Team
-   Resta Gamteng
-   Zeeone Ofc
-   X-Dev Team
-   Yudha perdana
-   Xchilds
-   Dika Ardnt
-`
-}
-
-
